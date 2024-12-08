@@ -1,7 +1,8 @@
 # House-Price-Predictor
 
 ## Overview
-The House Price Predictor is a machine learning project that predicts house prices based on location, size, and condition. It utilizes data preprocessing, feature engineering, and regression modeling to give predictions and insights into the housing market.
+The House Price Predictor is a machine learning project that predicts house prices based on location, size, and condition. It utilizes data preprocessing, feature engineering, and regression modeling to give predictions and insights into the housing market. I have also worked on the same project trying to learn about pytorch framework in the other branch
+
 
 ---
 
