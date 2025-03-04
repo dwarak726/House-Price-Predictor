@@ -30,14 +30,8 @@ Ensure you have Python and the required libraries installed. You can install the
   pip install -r requirements.txt
   ```
 3. Running the Script
-Use the following command to run the Python script, which preprocesses the data, trains the model, and makes predictions:  
-- ```terminal
-  python price_predictor.py
-  ```
-  also
-- ```terminal
-  python pred.py
-  ```
+have a jupyter notebook installed or use online services such as googel collab and download both files and the dataset and run it for yourself.
+
   
 ### **Contributing**
 - Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
