@@ -34,5 +34,10 @@ Use the following command to run the Python script, which preprocesses the data,
 - ```terminal
   python price_predictor.py
   ```
+  also
+- ```terminal
+  python pred.py
+  ```
+  
 ### **Contributing**
 - Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
